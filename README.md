@@ -36,7 +36,6 @@ A summery of the project: it is an implementaion of SysTick and NVIC drivers and
 
     APP2 overview:
     Test the SysTick with busy-wait technique and NVIC system exceptions functionalities using the main application 2.
-      rolling action is done on the three leds every 1 
       
       Steps:
 
